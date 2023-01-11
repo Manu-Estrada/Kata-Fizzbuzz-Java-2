@@ -1,6 +1,6 @@
 # Kata FizzBuzz
 
-Kata FizzBuzz con javascript y cobertura de test con jest
+Kata FizzBuzz con javascript y cobertura de test con jest.
 
 ## Pre-requirement
 
